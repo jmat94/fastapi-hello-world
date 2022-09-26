@@ -33,4 +33,4 @@ jobs:
             registry-username: ${{ secrets.REGISTRY_USERNAME }}
             registry-password: ${{ secrets.REGISTRY_PASSWORD }}
             name: fastapi-sampleapp
-            location: 'west europe'
+            location: 'australia east'
